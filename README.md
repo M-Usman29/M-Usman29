@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 I’m currently working on my Final Year Project named Mentorly which employs microservices Architecture to create a global educational and services community, fostering personalized mentorship and skill enhancement experiences.<br> Link to Mentorly: https://mentorly-peach.vercel.app/<br>👯 I’m looking to collaborate on open-source projects <br>🤝 I’m looking for help with understanding advanced web development and AI integrated Softwares concepts<br>🌱 I’m currently Exploring the field of Machine Learning , Deep Learning & Generative AI.<br>💬 Ask me about React.js <br>⚡Always optimistic :)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004453087672) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-usman-amir/) 
