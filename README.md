@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer (.NET) with ~2 years of experience building scalable enterprise applications using .NET Core, Angular, AWS Serverless, and Clean Architecture.
+Software Engineer (.NET) with ~2.5 years of experience building scalable enterprise applications using .NET Core, Angular, AWS Serverless, and Clean Architecture.
 
 🚀 Currently contributing to large-scale smart home automation and AI-powered recruitment platforms, including systems deployed across 40,000+ units in the U.S.
 
