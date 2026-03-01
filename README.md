@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on my Final Year Project named Mentorly which employs microservices Architecture to create a global educational and services community, fostering personalized mentorship and skill enhancement experiences.<br> Link to Mentorly: https://mentorly-peach.vercel.app/<br>👯 I’m looking to collaborate on open-source projects.<br>🤝 I’m looking for help with understanding advanced web development and AI integrated Softwares concepts.<br>🌱 I’m currently Exploring the field of Machine Learning , Deep Learning & Generative AI.<br>💬 Ask me about React.js.<br>⚡Always optimistic :)
+Software Engineer (.NET) with ~2 years of experience building scalable enterprise applications using .NET Core, Angular, AWS Serverless, and Clean Architecture.
+
+🚀 Currently contributing to large-scale smart home automation and AI-powered recruitment platforms, including systems deployed across 40,000+ units in the U.S.
+
+🎓 Computer Science graduate from FAST-NUCES (Dean’s List – Fall 2023).
+
+🌍 Final Year Project: Mentorly – A microservices-based global mentorship and skill development platform.
+🔗 https://mentorly-peach.vercel.app/
+
+☁️ Strong experience with AWS (IoT Core, Lambda, DynamoDB), Docker, CI/CD, and cloud-native architectures.
+
+👯 Open to collaborating on impactful open-source projects.
+🤝 Always exploring Machine Learning, Deep Learning & Generative AI.
+⚡ Optimistic. Curious. Growth-driven.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004453087672) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-usman-amir/) 
